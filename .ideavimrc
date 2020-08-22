@@ -4,6 +4,7 @@ nnoremap <S-Tab> <<_
 inoremap <S-Tab> <C-D>
 vnoremap <Tab> >gv
 vnoremap <S-Tab> <gv
+map ; $
 map й q
 map ц w
 map у e
